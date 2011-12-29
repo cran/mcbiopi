@@ -1,0 +1,7 @@
+export(minDNF, prime.implicants, generateTruthTab, getPImps)
+
+S3method(print, minDNF)
+S3method(print, primeImp)
+
+
+
