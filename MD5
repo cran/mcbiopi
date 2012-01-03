@@ -1,5 +1,5 @@
-d9030ed8e67db0e320127fa514a17338 *DESCRIPTION
-67d4e7433c2e13af5222cecde2a771c8 *NAMESPACE
+d019642c0a2e5d69424a3d3478627419 *DESCRIPTION
+49236f2ba45e0966f78394729cef05ff *NAMESPACE
 4f5022f1cfde4cc5c72d8d02ebc70786 *R/cyclic.covering.R
 5eadc2fa06021620012bdba5e2471bbd *R/generateTruthTab.R
 26a3aefb5218c9b2cfd8d401d9443c6d *R/getPImps.R
@@ -11,6 +11,6 @@ fbe861c4cdd73ca5c4da8c59487a0141 *R/ia.samp.R
 252b164fe777048d0355a4b271e295fa *R/print.minDNF.R
 9de84433d70eb3a6f028e3b0ad3edff7 *R/print.primeImp.R
 bd1405d7304b2596af685012c58342e9 *R/rm.dom.R
-23c6c2d0a6d6206d9ef72c6d0d2c9385 *man/generateTruthTab.Rd
+f8ef210e0777c6474dc490c5de6d014b *man/generateTruthTab.Rd
 d6c51c7b553615ee883d851b86eb025d *man/minDNF.Rd
 54fd4bbea68cd963e8cabfe6cf086e81 *man/prime.implicants.Rd

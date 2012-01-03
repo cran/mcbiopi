@@ -1,6 +1,7 @@
 \name{generateTruthTab}
 \alias{generateTruthTab}
 \alias{getPImps}
+\alias{evalTree}
 
 \title{Truth Table for a Logic Tree}
 \description{
