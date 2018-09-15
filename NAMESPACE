@@ -1,5 +1,7 @@
 export(minDNF, prime.implicants, generateTruthTab, getPImps, evalTree)
 
+importFrom("methods", "is")
+
 S3method(print, minDNF)
 S3method(print, primeImp)
 

@@ -19,7 +19,7 @@ getPImps(ltree, type)
 }
 
   
-\author{Holger Schwender, \email{holger.schwender@udo.edu}}
+\author{Holger Schwender, \email{holger.schwender@hhu.de}}
 
 
 \seealso{
