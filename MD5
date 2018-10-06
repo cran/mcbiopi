@@ -1,8 +1,8 @@
-a032789cffef3ecea386271adbed4ad2 *DESCRIPTION
+bab048539c582d83636858f9f783a503 *DESCRIPTION
 d3cff4f55ba4804fec874b23566abc14 *NAMESPACE
 4f5022f1cfde4cc5c72d8d02ebc70786 *R/cyclic.covering.R
 5eadc2fa06021620012bdba5e2471bbd *R/generateTruthTab.R
-db265d6f7b6fe12c7ace1bfa741565ab *R/getPImps.R
+d5ce9d70af68f0a6e445b21f3d20b0ce *R/getPImps.R
 ff79f6acbb476db8c44366358bf35987 *R/getPerms.R
 fbe861c4cdd73ca5c4da8c59487a0141 *R/ia.samp.R
 85c89209903f79f8208f3ea14c3e04d4 *R/minDNF.R
